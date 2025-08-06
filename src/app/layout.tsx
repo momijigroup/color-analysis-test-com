@@ -11,10 +11,10 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Color Analysis Pro | AI-Powered Seasonal Color Analysis',
+    default: 'Find Your Perfect Colors | Free AI Color Analysis Quiz',
     template: '%s | Color Analysis Pro'
   },
-  description: "Discover your optimal color palette through AI-powered seasonal color analysis. Determine your color season classification and receive a scientifically-based personal color palette in minutes.",
+  description: "Discover which colors make you look amazing! Take our free AI-powered color analysis quiz and get your personalized color palette in just minutes. Join 355,000+ happy users!",
   keywords: ['color analysis', 'seasonal color analysis', 'what season am i', 'color season quiz', 'AI color analysis', 'personal color palette'],
   authors: [{ name: 'Color Analysis Pro' }],
   creator: 'Color Analysis Pro',
@@ -29,22 +29,22 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://color-analysis.pro',
-    title: 'Color Analysis Pro | AI-Powered Seasonal Color Analysis',
-    description: "Discover your optimal color palette through AI-powered seasonal color analysis. Determine your color season classification and receive a scientifically-based personal color palette in minutes.",
+    title: 'Find Your Perfect Colors | Free AI Color Analysis Quiz',
+    description: "Discover which colors make you look amazing! Take our free AI-powered color analysis quiz and get your personalized color palette in just minutes. Join 355,000+ happy users!",
     siteName: 'Color Analysis Pro',
     images: [
       {
         url: '/lovable-uploads/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Color Analysis Pro - AI-powered seasonal color analysis',
+        alt: 'Color Analysis Pro - Find your perfect colors with AI',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Color Analysis Pro | AI-Powered Seasonal Color Analysis',
-    description: "Discover your optimal color palette through AI-powered seasonal color analysis. Determine your color season classification and receive a scientifically-based personal color palette in minutes.",
+    title: 'Find Your Perfect Colors | Free AI Color Analysis Quiz',
+    description: "Discover which colors make you look amazing! Take our free AI-powered color analysis quiz and get your personalized color palette in just minutes. Join 355,000+ happy users!",
     images: ['/lovable-uploads/og-image.png'],
     creator: '@coloranalysis',
     site: '@coloranalysis',
@@ -76,15 +76,15 @@ export default function RootLayout({
   const webpageJsonLd = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Color Analysis Pro | AI-Powered Seasonal Color Analysis",
-    "description": "Discover your optimal color palette through AI-powered seasonal color analysis. Determine your color season classification and receive a scientifically-based personal color palette in minutes.",
+    "name": "Find Your Perfect Colors | Free AI Color Analysis Quiz",
+    "description": "Discover which colors make you look amazing! Take our free AI-powered color analysis quiz and get your personalized color palette in just minutes. Join 355,000+ happy users!",
     "url": "https://color-analysis.pro/",
     "inLanguage": "en",
     "isPartOf": {
       "@type": "WebSite",
       "name": "Color Analysis Pro",
       "url": "https://color-analysis.pro",
-      "description": "AI-powered seasonal color analysis and personal color palette discovery",
+      "description": "Find your perfect colors with our friendly AI-powered color analysis and get your personalized color palette",
       "publisher": {
         "@type": "Organization",
         "name": "Color Analysis Pro",
@@ -110,7 +110,7 @@ export default function RootLayout({
       "width": 64,
       "height": 64
     },
-    "description": "AI-powered seasonal color analysis and personal color palette discovery",
+    "description": "Helping you discover your perfect colors with friendly AI-powered color analysis and personalized color palettes",
     "sameAs": [
       "https://twitter.com/coloranalysis"
     ],

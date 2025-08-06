@@ -4,18 +4,18 @@ import { Eye, BrainCircuit, Palette } from 'lucide-react'
 const technologies = [
   {
     icon: <Eye className="w-6 h-6" />,
-    title: 'Computer Vision Analysis',
-    description: 'Maps key visual features like skin tone, contrast, and brightness',
+    title: 'Smart Vision Analysis',
+    description: 'Our AI carefully looks at your skin tone, contrast, and natural brightness',
   },
   {
     icon: <BrainCircuit className="w-6 h-6" />,
-    title: 'Machine Learning Models',
-    description: 'Trained on thousands of expert color analyses',
+    title: 'Super Smart Learning',
+    description: 'Trained on thousands of expert color analyses to get it just right',
   },
   {
     icon: <Palette className="w-6 h-6" />,
-    title: 'Color Theory Expertise',
-    description: 'Based on proven methods from certified image consultants and stylists',
+    title: 'Real Color Expertise',
+    description: 'Built on proven methods from professional stylists and color experts',
   },
 ]
 
@@ -42,10 +42,10 @@ const TechnologySection = () => {
           <div className="space-y-8">
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-                <span className="gradient-text">AI Technology</span> Built for <span className="gradient-text">Color Matching Accuracy</span>
+                <span className="gradient-text">Smart AI Technology</span> That Gets <span className="gradient-text">Your Colors Right</span>
               </h2>
               <p className="text-lg text-gray-600">
-                Our system combines advanced computer vision, machine learning, and real-world color analysis expertise.
+                We blend cutting-edge AI vision, smart learning, and real color expertise to find your perfect colors every time.
               </p>
             </div>
 

@@ -9,18 +9,18 @@ import { usePathname } from 'next/navigation'
 const steps = [
   {
     icon: <Camera className="w-6 h-6" />,
-    title: 'Complete Assessment',
-    description: 'Answer targeted questions or upload a photo to initiate the analysis process. Duration: under 5 minutes.',
+    title: 'Take the Fun Quiz',
+    description: 'Answer some quick questions or snap a photo - it takes less than 5 minutes and it\'s actually fun!',
   },
   {
     icon: <Sparkles className="w-6 h-6" />,
-    title: 'AI Processing',
-    description: 'Advanced algorithms analyze your individual characteristics to determine optimal color season and tonal range.',
+    title: 'AI Works Its Magic',
+    description: 'Our smart AI analyzes your unique features to figure out your perfect color season and what looks amazing on you.',
   },
   {
     icon: <Palette className="w-6 h-6" />,
-    title: 'Receive Analysis',
-    description: 'Access your personalized color palette and styling recommendations immediately upon completion.',
+    title: 'Get Your Results',
+    description: 'Instantly receive your beautiful personalized color palette and styling tips that you can use right away!',
   },
 ]
 
@@ -33,10 +33,10 @@ export default function HowItWorksSection() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-4">
-            How Our <span className="gradient-text">Color Analysis</span> Works
+            How Our <span className="gradient-text">Color Magic</span> Works
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Our streamlined 3-step process delivers accurate results efficiently, requiring no prior color theory knowledge.
+            Just 3 super simple steps to discover your perfect colors - no color expertise needed, we promise it's easy!
           </p>
           <div className="block lg:hidden mt-6">
             <div className="p-2 bg-white rounded-2xl shadow-lg hover-scale max-w-md mx-auto">

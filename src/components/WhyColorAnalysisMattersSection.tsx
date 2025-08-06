@@ -13,7 +13,7 @@ const WhyColorAnalysisMattersSection = () => (
         {/* Left: Text */}
         <div>
           <h2 className="text-3xl md:text-4xl font-extrabold text-gray-800 mb-4">
-            Why <span className="gradient-text">Color Analysis</span> Matters
+            Why <span className="gradient-text">Finding Your Colors</span> Changes Everything
           </h2>
           {/* Mobile image after heading */}
           <div className="block md:hidden mb-4">
@@ -31,24 +31,24 @@ const WhyColorAnalysisMattersSection = () => (
             </div>
           </div>
           <p className="text-gray-600 mb-6">
-            Wearing colors that complement your natural coloring enhances your appearance and simplifies wardrobe decisions. Our analysis provides:
+            When you wear colors that love your natural beauty, magic happens! You'll look more radiant and feel more confident. Here's what you'll get:
           </p>
           <ul className="space-y-3">
             <li className="flex items-start text-brand-plum">
               <span className="mr-2 mt-1">✔</span>
-              <span className="text-gray-700">Enhanced skin tone appearance and natural coloring</span>
+              <span className="text-gray-700">Your skin will glow and look naturally beautiful</span>
             </li>
             <li className="flex items-start text-brand-plum">
               <span className="mr-2 mt-1">✔</span>
-              <span className="text-gray-700">Informed purchasing decisions based on color compatibility</span>
+              <span className="text-gray-700">Shopping becomes so much easier when you know your perfect colors</span>
             </li>
             <li className="flex items-start text-brand-plum">
               <span className="mr-2 mt-1">✔</span>
-              <span className="text-gray-700">Streamlined wardrobe construction with coordinated color schemes</span>
+              <span className="text-gray-700">A wardrobe that works together beautifully every single day</span>
             </li>
             <li className="flex items-start text-brand-plum">
               <span className="mr-2 mt-1">✔</span>
-              <span className="text-gray-700">Consistent professional appearance and visual coherence</span>
+              <span className="text-gray-700">Always looking polished and put-together effortlessly</span>
             </li>
           </ul>
         </div>

@@ -34,7 +34,7 @@ const Footer = () => {
               <Image src="/lovable-uploads/logo1.png" alt="Color-analysis.pro logo" width={64} height={64} priority />
             </Link>
             <p className="text-gray-400">
-              Color-analysis.pro offers the most advanced AI-powered personal color quiz online. Discover your seasonal color palette and learn what colors suit you best—with zero guesswork.
+              Color-analysis.pro is your friendly AI color expert! Discover your perfect seasonal color palette and learn exactly which colors make you look absolutely amazing—no guesswork, just results you'll love.
             </p>
             <div className="flex space-x-4">
               <a

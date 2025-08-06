@@ -18,7 +18,7 @@ const UserStatsSection = () => (
         </div>
       </div>
       <div className="text-center text-gray-700 text-lg max-w-2xl">
-        Join thousands of satisfied users who have discovered their perfect colors and transformed their style.
+        Join thousands of happy people who've found their perfect colors and completely transformed how amazing they look and feel!
       </div>
     </div>
   </section>
