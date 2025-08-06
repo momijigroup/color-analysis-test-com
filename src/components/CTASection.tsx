@@ -12,10 +12,10 @@ export default function CTASection() {
     <section className="py-20 bg-gradient-to-br from-brand-plum to-brand-plumLight">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6">
-          Ready to Transform Your Style?
+          Begin Your Color Analysis
         </h2>
         <p className="text-xl text-white/90 max-w-2xl mx-auto mb-8">
-          Join 355,000+ people who have discovered their perfect colors and transformed their confidence with our AI-powered color analysis.
+          Access the same AI-powered color analysis system used by over 355,000 individuals to determine their optimal color palette.
         </p>
 
         <Link href={quizUrl} legacyBehavior>
@@ -28,7 +28,7 @@ export default function CTASection() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center text-sm text-white/80 mb-8">
           <div className="flex items-center">
             <Users size={16} className="mr-2 text-brand-peachLight" />
-            <span>355,000+ users analyzed</span>
+            <span>355,000+ analyses completed</span>
           </div>
           <div className="flex items-center">
             <div className="flex mr-2">
@@ -61,7 +61,7 @@ export default function CTASection() {
         </div>
 
         <p className="text-sm text-white/70 mt-6">
-          Free • No registration required • Results in minutes • 94% accuracy
+          No cost • Registration not required • Immediate results • 94% accuracy rate
         </p>
       </div>
     </section>

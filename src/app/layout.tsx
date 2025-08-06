@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     default: 'Color Analysis Pro | AI-Powered Seasonal Color Analysis',
     template: '%s | Color Analysis Pro'
   },
-  description: "Ready to discover your perfect colors? Our friendly AI-powered color analysis makes it easy to find out if you're a Spring, Summer, Autumn, or Winter. Get your personalized color palette in just minutes!",
+  description: "Discover your optimal color palette through AI-powered seasonal color analysis. Determine your color season classification and receive a scientifically-based personal color palette in minutes.",
   keywords: ['color analysis', 'seasonal color analysis', 'what season am i', 'color season quiz', 'AI color analysis', 'personal color palette'],
   authors: [{ name: 'Color Analysis Pro' }],
   creator: 'Color Analysis Pro',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: 'https://color-analysis.pro',
     title: 'Color Analysis Pro | AI-Powered Seasonal Color Analysis',
-    description: "Ready to discover your perfect colors? Our friendly AI-powered color analysis makes it easy to find out if you're a Spring, Summer, Autumn, or Winter. Get your personalized color palette in just minutes!",
+    description: "Discover your optimal color palette through AI-powered seasonal color analysis. Determine your color season classification and receive a scientifically-based personal color palette in minutes.",
     siteName: 'Color Analysis Pro',
     images: [
       {
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Color Analysis Pro | AI-Powered Seasonal Color Analysis',
-    description: "Ready to discover your perfect colors? Our friendly AI-powered color analysis makes it easy to find out if you're a Spring, Summer, Autumn, or Winter. Get your personalized color palette in just minutes!",
+    description: "Discover your optimal color palette through AI-powered seasonal color analysis. Determine your color season classification and receive a scientifically-based personal color palette in minutes.",
     images: ['/lovable-uploads/og-image.png'],
     creator: '@coloranalysis',
     site: '@coloranalysis',
@@ -77,7 +77,7 @@ export default function RootLayout({
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Color Analysis Pro | AI-Powered Seasonal Color Analysis",
-    "description": "Ready to discover your perfect colors? Our friendly AI-powered color analysis makes it easy to find out if you're a Spring, Summer, Autumn, or Winter. Get your personalized color palette in just minutes!",
+    "description": "Discover your optimal color palette through AI-powered seasonal color analysis. Determine your color season classification and receive a scientifically-based personal color palette in minutes.",
     "url": "https://color-analysis.pro/",
     "inLanguage": "en",
     "isPartOf": {

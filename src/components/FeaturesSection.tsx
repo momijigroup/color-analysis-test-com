@@ -4,22 +4,22 @@ const features = [
   {
     icon: <Sparkles className="w-6 h-6" />,
     title: 'Smart AI Analysis',
-    description: 'Our friendly AI carefully looks at your natural features to give you spot-on results—way better than those basic quizzes!',
+    description: 'Advanced AI algorithm analyzes your natural features to deliver precise results that surpass conventional assessment methods.',
   },
   {
     icon: <Palette className="w-6 h-6" />,
     title: 'Your Personal Color Palette',
-    description: 'Get a beautiful custom palette that\'s made just for you, based on your skin tone, hair, and eye color.',
+    description: 'Receive a customized color palette generated from your specific skin tone, hair, and eye color characteristics.',
   },
   {
     icon: <Wand2 className="w-6 h-6" />,
     title: 'Personalized Style Tips',
-    description: 'We\'ll give you helpful suggestions for makeup, clothing, and accessories that will make you shine!',
+    description: 'Access targeted recommendations for makeup, clothing, and accessories optimized for your color profile.',
   },
   {
     icon: <Heart className="w-6 h-6" />,
     title: 'Easy Learning Tools',
-    description: 'Learn how to use your new colors with fun visuals and simple styling tips that anyone can follow.',
+    description: 'Utilize comprehensive visual guides and practical styling instructions for effective color implementation.',
   },
 ]
 
@@ -34,10 +34,10 @@ const FeaturesSection = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">
-            Let's Create Your <span className="gradient-text">Personal Color Story</span>
+            Develop Your <span className="gradient-text">Personal Color Profile</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            We combine smart AI technology with color expertise to give you the most accurate and personalized color analysis you can find online. It's like having a color consultant right at your fingertips!
+            Our system combines advanced AI technology with professional color theory to deliver the most accurate and personalized color analysis available online.
           </p>
         </div>
 

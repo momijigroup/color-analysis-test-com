@@ -144,10 +144,10 @@ const TestimonialsSection = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            What Our <span className="gradient-text">Users Say</span>
+            User <span className="gradient-text">Feedback</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Thousands of women have used our AI color analysis quiz to find their perfect color palette, boost confidence, and make smarter style choices. Here&apos;s what they say:
+            Over 355,000 individuals have utilized our AI color analysis system to determine their optimal color palette and enhance their style decisions.
           </p>
         </div>
         <div className="flex justify-center items-center gap-4">

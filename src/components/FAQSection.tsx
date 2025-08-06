@@ -6,37 +6,37 @@ const faqs = [
   {
     question: "What is AI color analysis?",
     answer:
-      "AI color analysis is an advanced technology that uses artificial intelligence to determine which colors suit you best. By analyzing your unique features such as skin tone, eye color, and hair color, our AI-powered tool provides a personalized color palette to enhance your wardrobe, makeup, and style confidence.",
+      "AI color analysis utilizes artificial intelligence algorithms to determine optimal color selections based on individual characteristics. The system analyzes skin tone, eye color, and hair color to generate personalized color palettes for wardrobe and cosmetic applications.",
   },
   {
     question: "How does the color palette quiz work?",
     answer:
-      "Our color palette quiz is designed to be quick and easy! Simply answer a few questions about your features and preferences, and our AI stylist will analyze your responses to create your personal color palette. You'll find out which colors match your undertones and help you look your best.",
+      "The color palette assessment requires responses to targeted questions regarding physical characteristics and preferences. The AI system processes this data to generate a customized color palette based on undertone analysis and compatibility factors.",
   },
   {
     question: "Why should I use an AI stylist for color analysis?",
     answer:
-      "An AI stylist uses thousands of data points and real-world color theory to deliver fast, accurate results. Unlike traditional color analysis, AI can process subtle variations in your complexion and recommend colors that truly flatter you. It's the smart way to find your best colors online!",
+      "AI-based analysis processes extensive datasets and established color theory principles to provide efficient, accurate results. The system can identify subtle variations in complexion that may be overlooked in traditional methods, delivering precise color recommendations.",
   },
   {
     question: "What is a personal color palette?",
     answer:
-      "A personal color palette is a curated selection of shades that complement your natural coloring. Our AI color analysis generates a palette based on your unique profile, so you always know which colors suit you in clothing, accessories, and makeup.",
+      "A personal color palette consists of specifically selected colors that complement an individual's natural coloring characteristics. The AI analysis generates this palette based on your unique profile for application in clothing, accessories, and cosmetics.",
   },
   {
     question: "Can I trust online color analysis results?",
     answer:
-      "Absolutely! Our AI color analysis quiz uses state-of-the-art technology to deliver precise recommendations. Thousands of users have discovered which colors suit them best and transformed their style with our expert AI tool.",
+      "The AI color analysis system employs advanced technology to provide accurate recommendations. The platform has processed over 355,000 analyses, demonstrating consistent reliability in color assessment and recommendation generation.",
   },
   {
     question: "Do I need to upload a photo for color analysis?",
     answer:
-      "You can get accurate results with or without a photo. For the most personalized experience, uploading a clear photo helps the AI stylist analyze your facial features and undertones to determine your best color palette.",
+      "Photo upload is optional for the analysis process. While accurate results can be obtained through questionnaire responses alone, photo submission enables more precise feature analysis and undertone determination.",
   },
   {
     question: "How can knowing my best colors improve my style?",
     answer:
-      "Knowing which colors suit me helps you shop smarter, build a wardrobe you love, and boost your confidence. With a personal color palette from our AI color analysis, you'll always pick shades that make you look radiant and feel your best.",
+      "Understanding your optimal color palette enables more informed purchasing decisions and systematic wardrobe development. The analysis provides a framework for selecting colors that enhance your natural appearance and maintain visual consistency.",
   }
 ];
 

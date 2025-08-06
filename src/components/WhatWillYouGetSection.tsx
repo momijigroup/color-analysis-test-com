@@ -4,42 +4,42 @@ const items = [
   {
     icon: <Palette className="w-7 h-7 text-brand-plum" />, 
     title: 'Your Color Type',
-    description: 'Discover your personal color season (e.g. Soft Autumn, Bright Winter)'
+    description: 'Identification of your seasonal color classification'
   },
   {
     icon: <Droplet className="w-7 h-7 text-brand-plum" />, 
     title: 'Undertone Match',
-    description: "Learn whether you're cool, warm, or neutral"
+    description: 'Determination of your undertone classification'
   },
   {
     icon: <Layers className="w-7 h-7 text-brand-plum" />, 
     title: 'Contrast & Depth',
-    description: 'Understand your natural level of contrast'
+    description: 'Analysis of your natural contrast levels'
   },
   {
     icon: <Star className="w-7 h-7 text-brand-plum" />, 
     title: 'Top Colors for You',
-    description: 'Get your best shades to shine'
+    description: 'Optimal color selections for your profile'
   },
   {
     icon: <Info className="w-7 h-7 text-brand-plum" />, 
     title: 'Why It Works',
-    description: 'Science-backed color theory'
+    description: 'Evidence-based color theory applications'
   },
   {
     icon: <Lightbulb className="w-7 h-7 text-brand-plum" />, 
     title: 'How to Use It',
-    description: 'Tips for daily wear and shopping'
+    description: 'Practical implementation guidelines'
   },
   {
     icon: <Sparkles className="w-7 h-7 text-brand-plum" />, 
     title: 'Style Suggestions',
-    description: 'Outfit and makeup ideas for your type'
+    description: 'Style recommendations based on your analysis'
   },
   {
     icon: <Eye className="w-7 h-7 text-brand-plum" />, 
     title: 'Try-On Feature',
-    description: 'See how your colors look on you'
+    description: 'Visual preview of color compatibility'
   },
 ]
 
